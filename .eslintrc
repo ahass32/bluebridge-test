@@ -1,0 +1,9 @@
+{
+    "extends": "@callstack/eslint-config/react",
+    "rules": {
+        "react/react-in-jsx-scope": "off",
+        "promise/catch-or-return": "off",
+        "promise/always-return": "off",
+        "react/no-children-prop": "off"
+    }
+}
